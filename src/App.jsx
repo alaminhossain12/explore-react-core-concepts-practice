@@ -30,7 +30,7 @@ function App() {
   ];
   return (
     <>
-      <h1>Vite + React</h1>
+      <h1>Vite + React World Tour</h1>
       <div>
         <h6>All Books</h6>
         <BookStore books={books}></BookStore>
